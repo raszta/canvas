@@ -1,0 +1,18 @@
+.added{
+    color: red;
+    position:absolute;
+    top: 0;
+    width:1000px;
+    height:950px;
+    right:400px;
+    z-index: 99999;
+    font-size: 60px;
+    text-align: center;
+    background-size: cover;
+    background-image: url("wanted.jpg");
+}
+
+button{
+    background: transparent;
+    border: none;    
+}
