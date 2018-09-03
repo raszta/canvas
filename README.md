@@ -3,5 +3,6 @@ Simple game like space invader but with another characters. Enjoy shooting to ra
 Have fun and unforgettable memories!!
 
 Live demo https://raszta.github.io/canvas/
+
 Keyboards: move - up,down,left,right arrows,
           shooting - space.
